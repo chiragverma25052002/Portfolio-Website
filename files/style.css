@@ -242,9 +242,9 @@ body {
     color: black;
     font-size: 20px;
     line-height: 2;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     margin-bottom: 4rem;
-    text-align: justify;
+    text-align: left;
     text-justify: inter-word;
 }
 
