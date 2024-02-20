@@ -745,44 +745,6 @@ body {
     font-size: 20px;
     font-weight: 600;
 }
-
-.contact-form {
-    max-width: 1000rem;
-    margin: 200rem auto;
-    text-align: center;
-    margin-bottom: 300rem;
-}
-
-.contact-form .input-box{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-.contact-form .input-box input,
-.contact-form textarea {
-    width: 100%;
-    padding: 1.5rem;
-    font-size: 1.6rem;
-    color: black;
-    background: bl;
-    border-radius: .8rem;
-    margin: .7rem 0;
-}
-
-.contact-form .input-box input{
-    width: 79%;
-}
-
-.contact form textarea{
-    resize: none;
-}
-
-.contact form .btn{
-    margin-top: 2rem;
-    cursor: pointer;
-}
-
 /*.contact-text p{
     color: rgb(177, 177, 177);
     font-size: 20px;
