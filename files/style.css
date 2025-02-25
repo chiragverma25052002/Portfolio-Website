@@ -1084,7 +1084,9 @@ body {
         padding-bottom: 15px;
     }
     .layer p {
-        line-height: normal;
+        margin: 5px 0; /* Reduces unnecessary space above and below */
+        padding: 0; /* Removes extra padding */
+        line-height: 1.4; 
     }
     /*service*/
     .sub-title {
@@ -1253,7 +1255,9 @@ body {
         padding-bottom: 15px;
     }
     .layer p {
-        line-height: normal;
+        margin: 5px 0; /* Reduces unnecessary space above and below */
+        padding: 0; /* Removes extra padding */
+        line-height: 1.4; 
     }
 
     /*service*/
