@@ -17,3 +17,7 @@ window.addEventListener("scroll",() =>{
         toTop.classList.remove("active");
     }
 })
+
+(function() {
+    const techSkill = ['HTML'];
+})();
