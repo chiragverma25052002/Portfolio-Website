@@ -37,7 +37,7 @@ body {
     cursor: default;
     letter-spacing: 5px;
     opacity: 0;
-    animation: slideRight 1s ease forwards;
+    animation: slideRight 8s ease forwards;
 }
 
 .navbar a {
@@ -285,19 +285,22 @@ body {
 
 .sec {
     display: flex;
+    width: 100%;           /* or a fixed size like 1200px */
+    height: 600px;
     flex-wrap: wrap;
+    justify-content:space-between;
     padding-bottom: 0px;
 }
 
 .container1 {
-    width: 600px;
+    width: 700px;
     max-height: 500px;
     padding: 10px;
     color : black;
     margin-left: 100px;
 }
 .container2 {
-    width: 600px;
+    width: 700px;
     max-height: 500px;
     padding: 10px;
     color : black;
